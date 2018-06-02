@@ -20,10 +20,10 @@ title                    : "Some kind of great title goes here."
 title_separator          : "-"
 name                     : "Aliya Gifford"
 description              : "... come back and see what develops."
-url                      : "https://http://gifforda.github.io/" # the base hostname & protocol for your site
+url                      : "https://gifforda.github.io/" # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gifforda/gifforda.github.io" # GitHub username/repo-name
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/me2.png" # path of fallback teaser image
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
