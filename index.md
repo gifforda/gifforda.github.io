@@ -1,4 +1,4 @@
-## Welcome to Aliya's GitHub Page 
-### Under MASSIVE construction
-
-### Come back soon for more...
+---
+layout: home
+author_profile: true
+---
